@@ -8,6 +8,7 @@ Windows:
 * mysql from [xampp](https://www.apachefriends.org/), [wamp](https://www.wampserver.com/en/) or other sources that you know.
 
 ## How to run?
+Windows:
 1. Make sure the requirements are installed and running.
 2. Clone/download then extract this project.
 3. Open cmd/terminal then cd to this project.
