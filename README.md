@@ -1,6 +1,6 @@
 # Python Flask SQLite
 
-This simple flask application is from this [documentation](https://flask.palletsprojects.com/en/3.0.x/tutorial/) that I've converted from [using sqlite database]([https://flask.palletsprojects.com/en/3.0.x/tutorial/](https://github.com/Dmathz16/training-python-flask-sqlite)) to mysql (this).
+This simple flask application is from this [documentation](https://flask.palletsprojects.com/en/3.0.x/tutorial/) that I've converted from [using sqlite database](https://github.com/Dmathz16/training-python-flask-sqlite) to mysql (this).
 
 ## How to run?
 * To be continue...
