@@ -35,7 +35,8 @@ Windows:
    ```cmd
    flask --app application run --debug
    ```
-9. Done
+9. Open [application](http://127.0.0.1:5000/)
+10. DONE!
 
 ## Output
 ![image](https://github.com/Dmathz16/training-python-flask-sqlite/assets/54519505/ef771fda-0d00-4d6b-98b1-fc7343d75172)
