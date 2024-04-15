@@ -11,12 +11,14 @@ Windows:
 1. Make sure the requirements are installed and running.
 2. Clone/download then extract this project.
 3. Open cmd/terminal then cd to this project.
-   >>> cd PATH_OF_THE_PROJECT
-4. Generate virtual environment:
+   ```cmd
+   cd PATH_OF_THE_PROJECT
+   ```
+5. Generate virtual environment:
    >>> py -3 -m venv .venv
-5. Activate environment:
+6. Activate environment:
    >>> .venv\Scripts\activate
-6. Install modules:
+7. Install modules:
    >>> pip install -r requirements.txt 
 8. Generate mysql database:
    >>> python application/db.py
